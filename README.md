@@ -1,6 +1,6 @@
 # Resume
 [PDF version](https://github.com/LegateG/ba_portfolio/blob/main/resume_gorkemBayar.pdf) - [LinkedIn](https://www.linkedin.com/in/gorkemb/)
-#### Technical Skills: Python, SQL, Excel, Power BI, SAP, MS Project, PowerPoint, SharePoint
+#### Technical Skills: Python, SQL, Excel, Power BI, SAP, MS Project, Visio, PowerPoint, SharePoint
 
 ## Professional Summary
 - Results-driven Business and Systems Analyst with 5+ years of experience in data analysis, process optimization, and stakeholder management. Proven track record in leveraging advanced analytical tools to drive strategic decision-making and enhance operational efficiency. Skilled in collaborating with C-level executives and cross-functional teams to deliver high-impact solutions. Expertise in requirements gathering, and project management methodologies.
